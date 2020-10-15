@@ -1,10 +1,8 @@
 {
   "name": "@isayme/editorconfig",
   "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "postinstall": "cp ./.editorconfig $INIT_CWD"
+    "postinstall": "cp ./.editorconfig $INIT_CWD/"
   },
   "repository": {
     "type": "git",
