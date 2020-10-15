@@ -1,0 +1,22 @@
+{
+  "name": "@isayme/editorconfig",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cp ./.editorconfig $INIT_CWD"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isayme/editorconfig.git"
+  },
+  "keywords": [
+    "editorconfig"
+  ],
+  "author": "iSayme <isaymeorg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isayme/editorconfig/issues"
+  },
+  "homepage": "https://github.com/isayme/editorconfig#readme"
+}
